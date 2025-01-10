@@ -103,10 +103,20 @@
 - \[[arxiv](https://arxiv.org/abs/2407.20990)] From Feature Importance to Natural Language Explanations Using LLMs with RAG. `2024.06`
 - \[[SIGIR24](https://dl.acm.org/doi/abs/10.1145/3626772.3657984)] IR-RAG@ SIGIR24: Information Retrieval's Role in RAG Systems. `2024.07`
 - \[[arxiv](https://arxiv.org/pdf/2405.13000)] RAGE Against the Machine: Retrieval-Augmented LLM Explanations. `2024.05`
-  
+
+### Accountability
+- \[[arxiv](https://arxiv.org/abs/2312.07913)\] A Survey of Text Watermarking in the Era of Large Language Models. `2023.12`
+- \[[EMNLP24](https://aclanthology.org/2024.findings-emnlp.541)\]CODEIP: A Grammar-Guided Multi-Bit Watermark for Large Language Models of Code. `2024.11`
+- \[[NAACL24](https://aclanthology.org/2024.naacl-long.226)\]SEMSTAMP: A Semantic Watermark with Paraphrastic Robustness for Text Generation. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2306.04634)\]On the Reliability of Watermarks for Large Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2312.04469)\]On the Learnability of Watermarks for Language Models. `2024.05`
+- \[[arxiv](https://arxiv.org/abs/2310.18491)\]Publicly-Detectable Watermarking for Language Models. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2410.03537)\]Ward: Provable RAG Dataset Inference via LLM Watermarks. `2024.10`
+
 ### Others (Benchmarks, etc.)
 - \[[arxiv](https://arxiv.org/abs/2406.05794)\] RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2401.00396)\] RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models. `2024.05`
+- \[[ACL24](https://aclanthology.org/2024.acl-long.83/)\] WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models. `2024.08`
 
 ## Contribution
 ### 👥 Contributors (🗣️ We don't have any yet but once you contribute your profile will be shown here!)
